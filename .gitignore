@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Generated model binaries and temporary artifacts
+*.pkl
+*.joblib
+*.h5
+*.log
+.DS_Store
+Thumbs.db
+
+# Hadoop runtime data (do not commit)
+hadoop/
+hadoop_data/
+hadoop-*.tar.gz
+namenode/
+datanode/

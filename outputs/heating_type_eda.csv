@@ -1,0 +1,4 @@
+heating_type,average_kwh,median_kwh,records
+electric,29.30630831315577,28.53,30975
+heat_pump,26.204841238558227,25.29,22833
+gas,23.07761760636458,22.59,34692

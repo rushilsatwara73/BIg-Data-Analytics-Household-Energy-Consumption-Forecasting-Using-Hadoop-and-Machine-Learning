@@ -1,0 +1,7 @@
+feature,feature_value,average_kwh,records
+Solar,No,27.632057973805857,72688
+Solar,Yes,18.858317733367066,15812
+EV charger,No,24.39269844216298,70033
+EV charger,Yes,32.40444576812693,18467
+Pool/spa pump,No,25.154812996906717,78234
+Pool/spa pump,Yes,32.9967962205338,10266
